@@ -11,10 +11,11 @@ buscando aprender coisas novas na área de tecnologia.
 ## Tecnologias
 
 -  Python
--  Git e GitHub
--  Tinkercad
+-  GitHub
 -  CMD
 -  Flowgorithm
+-  HTML
+-  CSS
 
 ## Formação
 
@@ -32,7 +33,7 @@ buscando aprender coisas novas na área de tecnologia.
 
 ##  GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github.com/dashboard)
 
 ---
 
