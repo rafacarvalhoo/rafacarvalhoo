@@ -1,5 +1,11 @@
-# 👋 Olá, eu sou a Rafaella!
+<p align="center">
+  <img src="./<img width="1983" height="793" alt="ChatGPT Image 4 de set  de 2026, 10_48_04" src="https://github.com/user-attachments/assets/dec73b54-e544-4e41-a343-dc784c9a64ee" />
+" width="100%" alt="Banner Rafaella Carvalho">
+</p>
 
+---
+
+# 👋 Olá, eu sou a Rafaella!
 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
 📚 Estudante do Ensino Médio no SESI
 
