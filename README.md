@@ -37,6 +37,14 @@ buscando aprender coisas novas na área de tecnologia.
 
 ---
 
+## 🐍 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rafacarvalhoo/rafacarvalhoo/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+---
+
 ##  LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaella-carvalho-silva-13081b412/)
